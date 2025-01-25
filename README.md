@@ -32,7 +32,7 @@ Exam3:
 - Result Analysis: In this fair environment, the given result analysis has obvious differences
 - Note: The five-qubit error correction code encoding circuit and error correction code come from the Stac software package generation (github: https://abdullahkhalid.com/qecft/introduction/stac/)
 
-Note: The simulation platform version is limited to Qiskit 0.46.0.
+Note: The simulation platform version is limited to Qiskit 0.46.0
 
 
 
